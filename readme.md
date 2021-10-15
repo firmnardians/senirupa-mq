@@ -48,6 +48,14 @@ const wrapTitle = css`
 `;
 ```
 
+## Screen Size
+
+-   mq[0] = Mobile devices
+-   mq[1] = iPads, Tablets
+-   mq[2] = Small screens, laptops
+-   mq[3] = Desktops, large screens
+-   mq[4] = Extra large screens, TV
+
 ## Customization
 
 Information to change the max-width and min-width. Default is max-width
